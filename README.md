@@ -1,4 +1,4 @@
-🚀 Landing Page – ArqLab
+🏛️ Landing Page – ArqLab
 
 A proposta deste projeto foi desenvolver uma Landing Page institucional para uma empresa fictícia de arquitetura, com foco na captação de leads. A página apresenta um design limpo e objetivo, estruturado para destacar credibilidade, experiência e facilitar o contato com potenciais clientes.
 
