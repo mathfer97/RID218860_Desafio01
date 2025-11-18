@@ -3,7 +3,7 @@
     --offwhite: #f9f9f9;
     font-size: 10px;
     letter-spacing: 0.13rem;
-    font-family: Inter;
+    font-family: "Inter";
 }
 
 *{
@@ -101,3 +101,4 @@ h1{
     transform: scale(1.1);
 
 }
+
